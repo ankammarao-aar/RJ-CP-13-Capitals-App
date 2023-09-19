@@ -1,0 +1,47 @@
+.bg-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  font-family: 'Roboto';
+  background-color: #f8fafc;
+  border-radius: 12px;
+  padding: 42px;
+}
+
+.heading {
+  color: #000000;
+}
+
+.select-card {
+  display: flex;
+  align-items: center;
+}
+
+.select {
+  height: 32px;
+  width: 138px;
+  border: 1px solid #cbd2d9;
+  border-radius: 4px;
+  outline: none;
+  padding-left: 14px;
+}
+
+.capital-name {
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.para {
+  color: #323f4b;
+  padding-left: 14px;
+}
+
+.country {
+  color: #1e293b;
+  font-weight: bold;
+}
